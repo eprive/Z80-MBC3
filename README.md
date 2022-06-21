@@ -19,4 +19,4 @@ In the course of May - 2021 a small batch of kits will be made available, and li
 
 ![PHTO0178](https://user-images.githubusercontent.com/23081928/115931969-5dbd5d00-a48c-11eb-901d-c9d65d3adf65.JPG)
 
-Archives of the micro SD card contents, source code of the IOS firmware, and other support documentation will follow.
+Archives of the micro SD card contents, and other support documentation will follow when the need arises.
