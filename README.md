@@ -14,9 +14,8 @@ A kit comprises a microSD card - SPI module for disk emulation and the microSD c
 
 ![P_20210414_132627](https://user-images.githubusercontent.com/23081928/115931832-2484ed00-a48c-11eb-870d-7a103d333ab1.jpg)
 
-In the course of May - 2021 a small batch of kits will be made available, and listed on hood.de for purchase.
-  URL : https://www.hood.de/i/z80-mbc3-real-homemade-computer-an-easy-to-build-kit-93774484.htm
+In the course of May - 2021 a small initial batch of kits will be made available, and listed on hood.de.
 
 ![PHTO0178](https://user-images.githubusercontent.com/23081928/115931969-5dbd5d00-a48c-11eb-901d-c9d65d3adf65.JPG)
 
-Archives of the micro SD card contents, and other support documentation will follow when the need arises.
+Archives of the micro SD card contents, support documentation, and firmware updates will be published here too.
